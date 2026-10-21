@@ -2,122 +2,138 @@
 ### A Study of Energy, Motion & Spatial Design
 
 <p align="center">
-  <strong>A futuristic 3D scientific visualization crafted in Blender.</strong>
+  <strong>An exploration of scientific visualization through 3D design.</strong>
   <br />
-  An exploration of geometric systems, luminous trajectories, precision structures, and spatial composition.
+  Geometry · Motion · Light · Spatial Composition
 </p>
 
 <p align="center">
-  <img src="./FLUXFIELD_PREVIEW.png" alt="FLUXFIELD — futuristic scientific visualization" width="100%" />
+  <img src="./FLUXFIELD_PREVIEW.png" alt="FLUXFIELD — 3D scientific visualization preview" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3D-Blender-EA7600?style=flat-square&logo=blender&logoColor=white" alt="Created in Blender" />
-  <img src="https://img.shields.io/badge/Format-glTF%20Binary-4C8BF5?style=flat-square" alt="GLB format" />
-  <img src="https://img.shields.io/badge/Focus-Visual%20Design-8B5CF6?style=flat-square" alt="Visual design" />
-  <img src="https://img.shields.io/badge/Project-Portfolio%20Work-222222?style=flat-square" alt="Portfolio project" />
+  <img src="https://img.shields.io/badge/Created%20with-Blender-EA7600?style=flat-square&logo=blender&logoColor=white" alt="Created with Blender" />
+  <img src="https://img.shields.io/badge/3D%20Format-GLB-5271FF?style=flat-square" alt="GLB format" />
+  <img src="https://img.shields.io/badge/Discipline-3D%20Visual%20Design-8B5CF6?style=flat-square" alt="3D visual design" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-64748B?style=flat-square" alt="In development" />
 </p>
 
 ---
 
-## 01 — The Concept
+## 01. Overview
 
-**FLUXFIELD** is an original 3D visualization project built around the visual language of an abstract energy field.
+**FLUXFIELD** is an original 3D visualization project inspired by the structure and movement of an abstract scientific energy field.
 
-The composition brings together a central emitter, concentric calibration rings, sweeping field trajectories, metallic structures, and suspended particles. Cyan and violet accents establish contrast against a futuristic technical aesthetic.
+Built around a central emitter, the composition combines concentric calibration rings, sweeping trajectories, metallic structures, and suspended particles. Cyan and violet accents establish a distinctive visual identity, balancing technical precision with an atmospheric, futuristic aesthetic.
 
-The goal was to create a cohesive visual system that feels precise, dynamic, and immersive — combining the discipline of scientific instrumentation with the atmosphere of experimental digital art.
+The project explores how geometry, material contrast, lighting, and spatial hierarchy can transform a complex visual system into a cohesive experience.
 
-## 02 — Visual Language
+> **Design direction:** Structure in motion. Energy in form.
 
-| Element | Design Intent |
+## 02. The Visual Language
+
+The visual identity of FLUXFIELD is built on a deliberate relationship between structure and movement.
+
+| Design element | Purpose |
 |---|---|
-| **Cyan & violet** | Establish contrast, depth, and a futuristic visual identity |
-| **Concentric geometry** | Communicate precision, measurement, and structure |
-| **Curved trajectories** | Introduce motion and visual direction |
-| **Central emitter** | Anchor the composition and establish a focal point |
-| **Metallic surfaces** | Balance luminous accents with a technical material language |
-| **Floating particles** | Add scale, atmosphere, and spatial depth |
+| **Central emitter** | Establishes the primary focal point |
+| **Concentric rings** | Introduce precision, rhythm, and geometric order |
+| **Curved trajectories** | Create visual direction and a sense of movement |
+| **Cyan and violet accents** | Establish contrast and a futuristic color language |
+| **Metallic surfaces** | Reinforce the technical, instrument-inspired aesthetic |
+| **Floating particles** | Add atmosphere and a sense of spatial depth |
 
-## 03 — Project Highlights
+Each element contributes to the overall composition while maintaining a clear visual hierarchy.
 
-- **Spatial composition** — A central focal point surrounded by layered geometric systems.
-- **Material exploration** — Metallic surfaces paired with luminous cyan and violet accents.
-- **Motion studies** — Animation work exploring coordinated movement across selected scene elements.
-- **3D asset export** — A GLB deliverable prepared for viewing and sharing across compatible 3D workflows.
-- **Editable source** — A Blender project intended to support continued refinement and iteration.
+## 03. Project Highlights
 
-## 04 — Technology & Tools
+- **Spatial composition** — A central focal point supported by layered geometric structures.
+- **Material exploration** — Metallic finishes contrasted with luminous color accents.
+- **Geometric systems** — Interconnected rings and trajectories that create depth and rhythm.
+- **Motion exploration** — Animation work developed around selected scene elements.
+- **3D asset delivery** — A GLB export prepared for compatible 3D viewers and workflows.
 
-<p>
-  <img src="https://img.shields.io/badge/Blender-3D%20Creation-EA7600?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/glTF-3D%20Interchange-4C8BF5?style=flat-square" alt="glTF" />
-  <img src="https://img.shields.io/badge/GLB-Binary%20Asset-64748B?style=flat-square" alt="GLB" />
-</p>
+## 04. Technology & Tools
 
 | Component | Details |
 |---|---|
-| Project name | FLUXFIELD |
-| Category | 3D Scientific Visualization |
 | Primary tool | Blender |
-| Export format | `.glb` |
-| Source format | `.blend` |
-| Design focus | Composition, materials, geometry, and motion |
+| Asset format | glTF Binary (`.glb`) |
+| Preview | PNG |
+| Project category | 3D Scientific Visualization |
+| Design focus | Geometry, materials, composition, and motion |
 
-## 05 — Explore the Asset
+## 05. Preview the Asset
 
-### View the 3D model
+### 3D model
 
-1. Open the [`FLUXFIELD.glb`](./FLUXFIELD.glb) file in this repository.
-2. Download the file to your device.
-3. Import it into Blender or another compatible glTF viewer.
-4. Inspect the geometry, materials, composition, and available animations.
+**[View or download FLUXFIELD.glb](./FLUXFIELD.glb)**
 
-> **Animation note:** Exported animation playback should be verified in the target viewer. The presence of an animated Blender scene does not guarantee that every animated element will behave identically after export.
+To explore the asset:
 
-### Source project
+1. Download `FLUXFIELD.glb` from this repository.
+2. Open it in Blender or another compatible glTF viewer.
+3. Inspect the geometry, materials, and composition.
+4. If the viewer supports animation, play the timeline and check the movement of individual elements.
 
-The original `.blend` project is the editable working source. If included in this repository, open it in Blender to explore the scene setup and continue development.
+**Animation compatibility:** The exported model should be tested in the target viewer to confirm that all intended animated elements play correctly. Animation behavior has not yet been fully validated across the complete export.
 
-## 06 — Repository Structure
+### Project preview
+
+The `FLUXFIELD_PREVIEW.png` file provides a visual reference for the project and is displayed at the top of this README.
+
+## 06. Repository Structure
 
 ```text
 FLUXFIELD-3D-Asset/
-├── README.md
 ├── FLUXFIELD.glb
-├── FLUXFIELD_FINAL_WORKING.blend
-└── screenshots/
-    └── FLUXFIELD-preview.png
+├── FLUXFIELD_PREVIEW.png
+└── README.md
 ```
 
-*This structure illustrates the intended organization. Keep only filenames that actually exist in the repository, and use the exact filename of your uploaded screenshot.*
+The repository currently contains the exported 3D asset, its visual preview, and this documentation. The editable Blender source project is not currently included.
 
-## 07 — Design Process
+## 07. Design Process
 
-The project explores a simple visual principle: **complex systems can still feel intentional when every element has a clear role.**
+The project follows a composition-first approach to 3D visual development.
 
-The workflow focused on:
+**01 — Establish the focal point**
 
-1. Establishing the central focal point.
-2. Building layered rings and trajectory systems around it.
-3. Developing material contrast through metallic surfaces and luminous accents.
-4. Exploring animation across selected scene elements.
-5. Exporting the asset into GLB format for external viewing and further validation.
+Build the composition around a central emitter to give the viewer an immediate visual anchor.
 
-## 08 — What Comes Next
+**02 — Introduce geometric structure**
 
-- Validate animation behavior across compatible 3D viewers.
+Layer rings, trajectories, and surrounding elements to create depth, rhythm, and balance.
+
+**03 — Develop the material language**
+
+Use metallic surfaces and contrasting cyan-violet accents to distinguish structural and luminous elements.
+
+**04 — Explore movement**
+
+Experiment with coordinated animation across selected scene components.
+
+**05 — Prepare the asset for export**
+
+Export the scene to GLB format and identify areas requiring further compatibility and animation testing.
+
+## 08. Further Development
+
+Potential next steps for FLUXFIELD include:
+
+- Validate animation playback across compatible 3D viewers.
 - Refine export consistency and asset optimization.
-- Add additional presentation renders and close-up views.
-- Complete the asset's community submission and review process.
+- Add detailed renders and close-up visual studies.
+- Include the editable Blender source project.
+- Complete the community submission and review process.
 
-## 09 — About This Project
+## 09. About
 
-FLUXFIELD was created as part of the **Algoryx UI/UX Internship — Week 4: 3D Asset Creation & Algoryx Community Contribution**.
+FLUXFIELD was developed as part of the **Algoryx UI/UX Internship — Week 4: 3D Asset Creation & Algoryx Community Contribution**.
 
-This project extends my design practice into 3D visualization, exploring how composition, materials, geometry, and motion can work together to communicate a coherent visual concept.
+The project extends my design practice into 3D visualization, exploring how spatial composition, geometry, materials, and motion can work together to communicate a consistent visual concept.
 
-It represents an ongoing exploration of digital design beyond traditional interfaces.
+It represents an ongoing exploration of digital design beyond conventional interface layouts.
 
 ---
 
